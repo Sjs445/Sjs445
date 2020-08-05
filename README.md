@@ -64,7 +64,7 @@ I am a full stack developer with a passion for secure coding!
         <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
       </td>
       <td width="25%" align="center">
-        <b>𝗩𝘂𝗲</b><br><br><br>
+        <b>Vue</b><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
     </tr>
