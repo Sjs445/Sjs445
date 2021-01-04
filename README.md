@@ -2,7 +2,7 @@
 
 I am a full stack developer with a passion for secure coding!
 
-:computer: Graduating soon computer science student.
+:computer: Newly graduated computer science student.
 
 :sunglasses: I am mostly interested in full-stack development. Check out my current project [here!](https://github.com/Sjs445/OSRS-Raids-Finder)
 
