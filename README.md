@@ -6,7 +6,7 @@ I am a back-end developer with a passion for secure coding!
 
 :sunglasses: I am mostly interested in back-end development. Check out my current project [here!](https://github.com/Sjs445/OSRS-Raids-Finder)
 
-:bomb: My favorite programming language is Python, you can check out my [repositories](https://github.com/Sjs445?tab=repositories) for more.
+:bomb: My favorite programming language is Python 🐍, you can check out my [repositories](https://github.com/Sjs445?tab=repositories) for more.
 
 :video_game: I :blue_heart: to play Super Smash Bros Melee in my free time!
 
