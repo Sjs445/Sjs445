@@ -1,14 +1,14 @@
 # Hi my name is Shane!
 
-I am a full stack developer with a passion for secure coding!
+I am a back-end developer with a passion for secure coding!
 
 :computer: Newly graduated computer science student.
 
-:sunglasses: I am mostly interested in full-stack development. Check out my current project [here!](https://github.com/Sjs445/OSRS-Raids-Finder)
+:sunglasses: I am mostly interested in back-end development. Check out my current project [here!](https://github.com/Sjs445/OSRS-Raids-Finder)
 
-:bomb: My favorite stack to work with is the MERN stack, you can check out my [repositories](https://github.com/Sjs445?tab=repositories) for more.
+:bomb: My favorite programming language is Python, you can check out my [repositories](https://github.com/Sjs445?tab=repositories) for more.
 
-:video_game: I :blue_heart: Super Smash Bros Melee!
+:video_game: I :blue_heart: to play Super Smash Bros Melee in my free time!
 
 ## My Tech Stack
 
@@ -60,8 +60,8 @@ I am a full stack developer with a passion for secure coding!
         <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
       </td>
       <td width="25%" align="center">
-        <b>TailwindCSS</b><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+        <b>Docker</b><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/docker.svg">
       </td>
       <td width="25%" align="center">
         <b>Vue</b><br><br><br>
