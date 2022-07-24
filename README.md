@@ -4,7 +4,7 @@ I am a back-end developer with a passion for secure coding!
 
 :computer: Newly graduated computer science student.
 
-:sunglasses: I am mostly interested in back-end development. Check out my current project [here!](https://github.com/Sjs445/OSRS-Raids-Finder)
+:sunglasses: I am mostly interested in back-end development. Check out my current project [here!](https://github.com/Sjs445/Mass-Email-Unsubscriber)
 
 :bomb: My favorite programming language is Python 🐍, you can check out my [repositories](https://github.com/Sjs445?tab=repositories) for more.
 
