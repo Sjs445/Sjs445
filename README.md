@@ -1,10 +1,10 @@
 # Hi my name is Shane!
 
-I am a back-end developer with a passion for secure coding!
+I am a developer with a passion for secure coding!
 
-:computer: Newly graduated computer science student.
+:computer: Professional Software Engineer
 
-:sunglasses: I am mostly interested in back-end development. Check out my current project [here!](https://github.com/Sjs445/Mass-Email-Unsubscriber)
+:sunglasses: I specialize in back-end development. Check out my current project [here!](https://github.com/Sjs445/Mass-Email-Unsubscriber)
 
 :bomb: My favorite programming language is Python 🐍, you can check out my [repositories](https://github.com/Sjs445?tab=repositories) for more.
 
@@ -16,12 +16,12 @@ I am a back-end developer with a passion for secure coding!
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <b>Node</b><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-      </td>
-      <td width="25%" align="center">
         <b>Python</b><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="25%" align="center">
+      <b>Perl</b><br><br><br>
+        <img height="64px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/perl_solid_camel_src_logo_icon_169859.png">
       </td>
       <td width="25%" align="center">
       <b>C++</b><br><br><br>
@@ -42,12 +42,12 @@ I am a back-end developer with a passion for secure coding!
         <img height="64px" src="https://img.icons8.com/color/480/000000/mongodb.png">
       </td>
       <td width="25%" align="center">
-        <b>DynamoDB</b><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png">
+        <b>NodeJS</b><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
       <td width="25%" align="center">
-      <b>JavaScript</b><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      <b>Bash</b><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bash-icon.svg">
       </td>
     </tr>
     <tr valign="top">
@@ -64,8 +64,8 @@ I am a back-end developer with a passion for secure coding!
         <img height="64px" src="https://cdn.svgporn.com/logos/docker.svg">
       </td>
       <td width="25%" align="center">
-        <b>Vue</b><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+        <b>Linux</b><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/linux-tux.svg">
       </td>
     </tr>
   </tbody>
