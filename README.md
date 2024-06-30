@@ -4,7 +4,7 @@ I am a developer with a passion for secure coding!
 
 :computer: Professional Software Engineer
 
-:sunglasses: I specialize in back-end development. Check out my current project [here!](https://github.com/Sjs445/Mass-Email-Unsubscriber)
+:sunglasses: I specialize in back-end development. Check out my current project [here!](https://github.com/Sjs445/Email-Tidy)
 
 :bomb: My favorite programming language is Python 🐍, you can check out my [repositories](https://github.com/Sjs445?tab=repositories) for more.
 
